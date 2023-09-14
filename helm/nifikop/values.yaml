@@ -1,7 +1,7 @@
 ## NiFi Operator Image
 ##
 image:
-  repository: ghcr.io/konpyutaika/docker-images/nifikop
+  repository: dom-net8-poc-docker.artifactory.si.francetelecom.fr/nifikop/nifikop:v1.3.1-release
   tag: v1.3.1-release
   pullPolicy: Always
   imagePullSecrets:
